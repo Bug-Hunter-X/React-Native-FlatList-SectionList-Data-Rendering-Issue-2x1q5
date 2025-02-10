@@ -1,0 +1,1 @@
+In React Native, when working with FlatList or SectionList, you might encounter an error where the component renders with empty data or fails to update even when the data source changes. This often happens due to an incorrect or missing key extractor function.
