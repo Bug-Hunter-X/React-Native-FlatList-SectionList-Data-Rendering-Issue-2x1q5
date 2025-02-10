@@ -1,0 +1,1 @@
+This repository demonstrates a common issue in React Native's FlatList and SectionList components where data fails to render or update correctly due to problems with the keyExtractor prop. The `BuggyFlatList.js` file shows an example of this bug and `FixedFlatList.js` shows the corrected version.
